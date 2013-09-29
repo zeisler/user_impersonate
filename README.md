@@ -1,3 +1,5 @@
+This a fork to force the gem to rails 4. It is untested and unsupported.
+
 # User Impersonate
 
 Allow staff users to impersonate your normal users: see what they see, only do what they can do.
